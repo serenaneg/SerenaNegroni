@@ -1,6 +1,6 @@
 ### Hello GitHub people! 👋
 
-I'm currently an MIT/WHOI Joint Program PhD Student based at the WHOI Physical Oceanography Department :ocean: and the MIT Earth, Atmosphere & Planetary Science Department 🌱. 
+I'm currently a MIT/WHOI Joint Program PhD Student based at the WHOI Physical Oceanography Department :ocean: and the MIT Earth, Atmosphere & Planetary Science Department 🌱. 
 I did my Master's Degree at the University of Bologna in Physics of the Earth System.
 
 > Here I'll save some of my code used for various projects.

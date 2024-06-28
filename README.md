@@ -3,9 +3,9 @@
 I'm currently a MIT/WHOI Joint Program PhD Student based at the WHOI Physical Oceanography Department :ocean: and the MIT Earth, Atmosphere & Planetary Science Department 🌱. 
 I did my Master's Degree at the University of Bologna in Physics of the Earth System.
 
-> Here I'll save some of my code used for various projects.
+> Here I'll save some of my code used in various projects.
 
-- 📫 To reach me: sereneg@mit.edu or serena.negroni@studio.unibo.it
+- 📫 To reach me: serena.negroni@whoi.edu or sereneg@mit.edu
 
 
 <!-- - 🔭 I’m currently working on ...
